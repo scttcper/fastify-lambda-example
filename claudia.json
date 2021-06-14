@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "fastify-lambda-executor",
+    "name": "fastify-lambda",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "qw1jcu29l4"
+  }
+}
